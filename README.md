@@ -112,21 +112,17 @@ Docker • CI/CD
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <!-- Profile Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanibaananou09&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
+  <!-- Main Stats Card -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=amanibaananou09&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
   
-  <!-- Language Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanibaananou09&layout=compact&theme=github_dark&langs_count=8" />
+  <!-- Streak Stats (shows contributions and streaks) -->
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=amanibaananou09&theme=github-dark&hide_border=true" />
 </p>
 
+<h3 align="center">📅 Contribution Activity</h3>
 <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanibaananou09&theme=github-dark&area=true&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <!-- Trophy Stats -->
-  <img src="https://github-profile-trophy.vercel.app/?username=amanibaananou09&theme=onedark&no-frame=true&row=2&column=4" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanibaananou09&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="100%" />
 </p>
 
 ---
