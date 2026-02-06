@@ -112,17 +112,23 @@ Docker • CI/CD
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <!-- Main Stats Card -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=amanibaananou09&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <!-- Total Contributions estimate -->
+  <img src="https://img.shields.io/badge/Total%20Contributions-818+-brightgreen" />
   
-  <!-- Streak Stats (shows contributions and streaks) -->
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=amanibaananou09&theme=github-dark&hide_border=true" />
+  <!-- Current Streak -->
+  <img src="https://img.shields.io/badge/Current%20Streak-2%20days-blue" />
+  
+  <!-- Longest Streak -->
+  <img src="https://img.shields.io/badge/Longest%20Streak-9%20days-orange" />
 </p>
 
-<h3 align="center">📅 Contribution Activity</h3>
 <p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanibaananou09&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="100%" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=amanibaananou09&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanibaananou09&theme=github-dark&area=true&hide_border=true" />
 </p>
 
 ---
