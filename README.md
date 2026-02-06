@@ -1,18 +1,13 @@
 <h1 align="center">👋 Hi, I'm Amani Baananou</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Java+%2F+Spring+Boot+%7C+React;DevOps+%26+CI%2FCD;Applied+AI+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Java+%2F+Spring+Boot+%7C+React;DevOps+%26+CI%2FCD;Applied+AI" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/baananou-amani/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:baananouamani090@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://github.com/amanibaananou09">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -33,7 +28,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Development-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DevOps%20%26%20CI%2FCD-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-black?style=for-the-badge" />
 </p>
 
@@ -58,9 +52,8 @@ Deep Learning
 <td align="center" width="33%">
 
 💪 **Expertise**  
-Angular • Spring Boot  
-Docker • Azure  
-Jenkins • CI/CD
+React • Spring Boot  
+Docker • CI/CD
 
 </td>
 </tr>
@@ -72,14 +65,15 @@ Jenkins • CI/CD
 
 
 ## 🛠️ Tech Stack
-## 💻 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react,html,css,js,ts,tailwind,bootstrap,sass" />
-</p>
 
 ## ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,django,laravel,php,symfony" />
+  <img src="https://skillicons.dev/icons?i=java,jee,spring-boot,nodejs" />
+</p>
+
+## 💻 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,js,ts,tailwind,bootstrap" />
 </p>
 
 ## 🗄️ Databases
@@ -89,11 +83,16 @@ Jenkins • CI/CD
 
 ## ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,azure,githubactions,git,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,git" />
 </p>
 
 ## 🧰 Tools & IDEs
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
 </p>
+## 📚 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts" />
+</p>
+
 
