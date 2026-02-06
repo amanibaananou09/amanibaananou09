@@ -13,17 +13,14 @@
 
 ---
 
-<h2 align="center">🧑‍💻 About Me</h2>
+<h2 align="center">💼 About Me</h2>
 
-<p align="center">
 🎓 <b>Full-Stack Software Engineer</b> with 2+ years of experience<br/>
 ⚙️ Specialized in <b>Java / Spring Boot & React</b><br/>
 🔐 Building <b>secure, scalable, performance-oriented</b> applications<br/>
 🚀 Strong DevOps mindset: <b>CI/CD, Docker, automation</b><br/>
 🤖 Strong interest in <b>Applied AI & Deep Learning</b><br/>
 🇹🇳 Based in <b>Tunisia</b>
-</p>
-
 
 ---
  
@@ -63,7 +60,6 @@ Docker • CI/CD
 </tr>
 </table>
 
-
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -92,9 +88,113 @@ Docker • CI/CD
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
 </p>
+
 ## 📚 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,ts" />
 </p>
 
+
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanibaananou09&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanibaananou09&theme=github-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanibaananou09&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+<h2>🏆 Featured Projects</h2>
+
+🚀 **ArenaLink** – Full-stack football match management platform  
+🛠 Spring Boot · Angular · Azure  
+
+📌 **Project Management App** – Agile project management tool (JIRA-like)  
+🧩 NestJS · React  
+
+⚙️ **DevOps CI/CD Pipeline** – Automated pipelines  
+🐳 Docker · Jenkins · SonarQube · Grafana  
+
+🏟 **E-Sports Platform** – Comprehensive platform  
+🧠 Symfony · Codename One  
+
+🛒 **E-Commerce Platform** – Online store  
+🌐 Angular · Spring Boot  
+
+
+---
+
+<h2>🎯 Current Focus (2026)</h2>
+
+- 🔍 Deep diving into **Advanced AI / ML & Neural Networks**
+- 🤖 Automating **CI/CD workflows & infrastructure**
+- ⚡ Optimizing **application performance & scalability**
+- 🔐 Strengthening **security & vulnerability testing**
+- 🌍 Contributing to **open-source projects**
+
+
+---
+
+<h2>💡 What I Bring</h2>
+
+<table>
+<tr>
+<th>🚀 Expertise</th>
+<th>📈 Level</th>
+<th>🔥 Projects</th>
+</tr>
+
+<tr>
+<td>Full-Stack Web Development</td>
+<td>85%</td>
+<td>11+</td>
+</tr>
+
+<tr>
+<td>DevOps & CI/CD</td>
+<td>75%</td>
+<td>5+</td>
+</tr>
+
+<tr>
+<td>Cloud & Deployment</td>
+<td>70%</td>
+<td>4+</td>
+</tr>
+
+<tr>
+<td>Security & Best Practices</td>
+<td>65%</td>
+<td>6+</td>
+</tr>
+
+<tr>
+<td>AI / ML</td>
+<td>30%</td>
+<td>1+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanibaananou09&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting! ⭐  
+<br/>
+<b>— Amani Baananou</b> 💙
+</p>
 
