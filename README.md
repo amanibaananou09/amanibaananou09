@@ -28,10 +28,72 @@
 
 ---
 
-## 🧠 Expertise Map
-```txt
-Backend (Java / Spring Boot) ██████████████
-Frontend (React / Angular)   ████████████░░
-DevOps & CI/CD               █████████░░░░
-Security (OAuth2 / Keycloak) █████████░░░░
-AI & Deep Learning           ███████░░░░░░
+## 🚀 My Tech Journey
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Development-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps%20%26%20CI%2FCD-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-black?style=for-the-badge" />
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+🎯 **Focus**  
+Building scalable  
+full-stack applications  
+with modern frameworks
+
+</td>
+<td align="center" width="33%">
+
+📚 **Learning**  
+Artificial Intelligence  
+Machine Learning  
+Deep Learning
+
+</td>
+<td align="center" width="33%">
+
+💪 **Expertise**  
+Angular • Spring Boot  
+Docker • Azure  
+Jenkins • CI/CD
+
+</td>
+</tr>
+</table>
+
+
+---
+
+
+
+## 🛠️ Tech Stack
+## 💻 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,js,ts,tailwind,bootstrap,sass" />
+</p>
+
+## ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,django,laravel,php,symfony" />
+</p>
+
+## 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+## ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,azure,githubactions,git,linux" />
+</p>
+
+## 🧰 Tools & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma" />
+</p>
+
