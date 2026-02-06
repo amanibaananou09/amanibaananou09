@@ -108,6 +108,6 @@ Docker • CI/CD
 <p align="center">
 ✨ Thanks for visiting! ⭐  
 <br/>
-<b>— Amani Baananou</b> 💙
+⭐ From Amani Baananou with 💙
 </p>
 
