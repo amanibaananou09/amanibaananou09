@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Amani Baananou</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Java+%2F+Spring+Boot+%7C+React;DevOps+%26+CI%2FCD;Applied+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Java+%2F+Spring+Boot+%7C+React;DevOps+%26+CI%2FCD" />
 </p>
 
 <p align="center">
@@ -13,17 +13,21 @@
 
 ---
 
-## 🧑‍💻 About Me
-🎓 **Full-Stack Software Engineer** with **2+ years** of experience  
-⚙️ Specialized in **Java / Spring Boot** & **React**  
-🔐 Building **secure, scalable, performance-oriented** applications  
-🚀 Strong DevOps mindset: **CI/CD, Docker, automation**  
-🤖 Strong interest in **Applied AI & Deep Learning**  
-🇹🇳 Based in Tunisia
+<h2 align="center">🧑‍💻 About Me</h2>
+
+<p align="center">
+🎓 <b>Full-Stack Software Engineer</b> with 2+ years of experience<br/>
+⚙️ Specialized in <b>Java / Spring Boot & React</b><br/>
+🔐 Building <b>secure, scalable, performance-oriented</b> applications<br/>
+🚀 Strong DevOps mindset: <b>CI/CD, Docker, automation</b><br/>
+🤖 Strong interest in <b>Applied AI & Deep Learning</b><br/>
+🇹🇳 Based in <b>Tunisia</b>
+</p>
+
 
 ---
-
-## 🚀 My Tech Journey
+ 
+<h2 align="center">🚀 My Tech Journey</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Development-black?style=for-the-badge" />
@@ -62,18 +66,16 @@ Docker • CI/CD
 
 ---
 
-
-
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 ## ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=j2ee,spring,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
 
 ## 💻 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css,js,ts,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,js,ts,bootstrap" />
 </p>
 
 ## 🗄️ Databases
