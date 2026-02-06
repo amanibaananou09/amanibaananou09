@@ -84,7 +84,7 @@ Docker • CI/CD
 
 ### 💻 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css,js,ts,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,js,ts" />
 </p>
 
 ### 🗄️ Databases
@@ -175,5 +175,5 @@ Docker • CI/CD
 
 <p align="center">
 ✨ Thanks for visiting! ⭐<br/>
-<b>— Amani Baananou</b> 💙
+<b>💙 Amani Baananou</b> 💙
 </p>
