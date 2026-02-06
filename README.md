@@ -78,32 +78,32 @@ Docker • CI/CD
 <h2 align="center">🛠️ Tech Stack</h2>
 
 ### ⚙️ Backend Development
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
 
 ### 💻 Frontend Development
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react,angular,html,css,js,ts,bootstrap" />
 </p>
 
 ### 🗄️ Databases
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 ### ☁️ DevOps & Cloud
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=docker,git,linux" />
 </p>
 
 ### 🧰 Tools & IDEs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman" />
 </p>
 
 ### 📚 Programming Languages
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=java,js,ts" />
 </p>
 
@@ -123,7 +123,7 @@ Docker • CI/CD
 
 <h2 align="center">🎯 Current Focus (2026)</h2>
 
-<p align="center">
+<p>
 🔍 Advanced AI & Machine Learning<br/>
 ⚙️ CI/CD automation & DevOps pipelines<br/>
 ⚡ Performance & scalability optimization<br/>
@@ -167,19 +167,6 @@ Docker • CI/CD
 <td>Academic & practice</td>
 </tr>
 </table>
-
----
-
-<h2 align="center">🤝 Let’s Connect</h2>
-
-<p align="center">
-  <a href="mailto:baananouamani090@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/baananou-amani/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
 
 ---
 
