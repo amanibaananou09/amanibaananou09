@@ -1,68 +1,37 @@
 <h1 align="center">👋 Hi, I'm Amani Baananou</h1>
-<h3 align="center">Software Engineer | Mobile & Web Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/amanibaananou09">
-    <img src="https://img.shields.io/github/followers/amanibaananou09?label=Followers&style=for-the-badge">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Java+%2F+Spring+Boot+%7C+React;DevOps+%26+CI%2FCD;Applied+AI+Enthusiast" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/baananou-amani/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+  <a href="mailto:baananouamani090@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://github.com/amanibaananou09">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 💻 Software Engineer specialized in **Mobile & Web Development**
-- 📱 Passionate about building **smart, useful, and scalable apps**
-- 🤖 Interested in **AI-powered applications**
-- 🇹🇳 Based in Tunisia
+## 🧑‍💻 About Me
+🎓 **Full-Stack Software Engineer** with **2+ years** of experience  
+⚙️ Specialized in **Java / Spring Boot** & **React**  
+🔐 Building **secure, scalable, performance-oriented** applications  
+🚀 Strong DevOps mindset: **CI/CD, Docker, automation**  
+🤖 Strong interest in **Applied AI & Deep Learning**  
+🇹🇳 Based in Tunisia
 
 ---
 
-## 🧠 Focus Areas
-- Mobile App Development  
-- Web Development  
-- Artificial Intelligence & Smart Systems  
-- Clean Architecture & UX-focused apps  
-
----
-
-## 🛠 Tech Stack
-
-### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
-![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=flat&logo=kotlin)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=flat&logo=spring)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=flat&logo=firebase)
-![Android](https://img.shields.io/badge/Android-green?style=flat&logo=android)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanibaananou09&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanibaananou09&theme=dark" />
-</p>
-
----
-
-## ✨ Motto
-> *Build apps that people actually love to use.*
+## 🧠 Expertise Map
+```txt
+Backend (Java / Spring Boot) ██████████████
+Frontend (React / Angular)   ████████████░░
+DevOps & CI/CD               █████████░░░░
+Security (OAuth2 / Keycloak) █████████░░░░
+AI & Deep Learning           ███████░░░░░░
