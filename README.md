@@ -68,7 +68,7 @@ Docker • CI/CD
 
 ## ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=java,jee,spring-boot,nodejs" />
+  <img src="https://skillicons.dev/icons?i=j2ee,spring,nodejs" />
 </p>
 
 ## 💻 Frontend Development
