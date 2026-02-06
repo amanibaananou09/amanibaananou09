@@ -112,11 +112,8 @@ Docker • CI/CD
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=amanibaananou09&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=amanibaananou09&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanibaananou09&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanibaananou09&theme=github-dark&hide_border=true" />
 </p>
 
 ---
