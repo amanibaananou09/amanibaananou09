@@ -112,8 +112,13 @@ Docker • CI/CD
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanibaananou09&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanibaananou09&show_icons=true&theme=github_dark&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanibaananou09&theme=github-dark&hide_border=true" />
+</p>
+
+<h3 align="center">📅 Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanibaananou09&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="100%" />
 </p>
 
 ---
