@@ -1,18 +1,22 @@
 <h1 align="center">👋 Hi, I'm Amani Baananou</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer;Java+%2F+Spring+Boot+%7C+React;DevOps+%26+CI%2FCD;Applied+AI+Enthusiast" />
+  <b>Full-Stack Software Engineer | Java & Spring Boot | React | AI/LLM Integration</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Engineer;Java+%2F+Spring+Boot+%7C+React+%2F+TypeScript;SaaS+%7C+DDD+%7C+Modular+Architecture;AI+%2F+LLM+Integration+%7C+AI+Agents;Docker+%7C+CI%2FCD+%7C+Automated+Testing" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/baananou-amani/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:baananouamani090@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/amanibaananou09">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -24,12 +28,15 @@
 <tr>
 <td align="center">
 
-🎓 <b>Full-Stack Software Engineer</b> with 2+ years of experience  
-⚙️ Specialized in <b>Java / Spring Boot & React</b>  
-🔐 Building <b>secure, scalable, performance-oriented</b> applications  
-🚀 Strong DevOps mindset: <b>CI/CD · Docker · Automation</b>  
-🤖 Strong interest in <b>Applied AI & Deep Learning</b>  
-🇹🇳 Based in <b>Tunisia</b>  
+💻 <b>Full-Stack Software Engineer</b> with 3+ years of experience<br/>
+⚙️ Specialized in <b>Java, Spring Boot, React & TypeScript</b><br/>
+🏗️ Building scalable <b>SaaS and enterprise applications</b><br/>
+🧩 Experienced with <b>DDD, Spring Modulith and modular architectures</b><br/>
+🔐 Building secure applications with <b>OAuth2, JWT, Keycloak and Auth0</b><br/>
+🤖 Working with <b>AI/LLM Integration, AI Agents and Embeddings</b><br/>
+🧪 Focused on quality through <b>automated testing and Testcontainers</b><br/>
+🚀 Strong interest in <b>Docker, CI/CD and production-ready systems</b><br/>
+🇹🇳 Based in <b>Tunisia</b>
 
 </td>
 </tr>
@@ -37,39 +44,45 @@
 
 ---
 
-<h2 align="center">🚀 My Tech Journey</h2>
+<h2 align="center">🚀 Professional Focus</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Development-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SaaS%20Architecture-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20LLM%20Integration-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DevOps%20%26%20CI%2FCD-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-black?style=for-the-badge" />
 </p>
 
 <table align="center">
 <tr>
+
 <td align="center" width="33%">
 
-🎯 <b>Focus</b><br/>
-Scalable full-stack<br/>
-applications with<br/>
-modern frameworks
+🎯 <b>Full-Stack Development</b><br/><br/>
+Building scalable applications using<br/>
+Java, Spring Boot,<br/>
+React and TypeScript
 
 </td>
+
 <td align="center" width="33%">
 
-📚 <b>Learning</b><br/>
-Artificial Intelligence<br/>
-Machine Learning<br/>
-Deep Learning
+🧩 <b>Architecture</b><br/><br/>
+Domain-Driven Design<br/>
+Modular Architecture<br/>
+Spring Modulith
 
 </td>
+
 <td align="center" width="33%">
 
-💪 <b>Expertise</b><br/>
-React • Spring Boot<br/>
-Docker • CI/CD
+🤖 <b>AI Integration</b><br/><br/>
+LLM Integration<br/>
+AI Agents<br/>
+Embeddings & Prompt Engineering
 
 </td>
+
 </tr>
 </table>
 
@@ -77,55 +90,170 @@ Docker • CI/CD
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-### ⚙️ Backend Development
+### ☕ Backend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
 </p>
 
+**Java 17 • Spring Boot • Spring MVC • Spring Data JPA • Hibernate • Spring Security • Spring Modulith • Maven • DDD**
+
+---
+
 ### 💻 Frontend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,angular,html,css,js,ts" />
 </p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-### ☁️ DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
-</p>
-
-### 🧰 Tools & IDEs
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman" />
-</p>
-
-### 📚 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts" />
-</p>
+**React.js • TypeScript • JavaScript • Angular • React Flow • Material UI**
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+</p>
+
+**PostgreSQL • Neo4j • Oracle • MySQL • Liquibase • Flyway • SQL**
+
+---
+
+### 🔐 Security
+
+**OAuth2 • JWT • Keycloak • Auth0 • Role-Based Access Control (RBAC)**
+
+---
+
+### 🧪 Testing
+
+**JUnit • Mockito • Integration Testing • Testcontainers • Playwright • Vitest**
+
+---
+
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+**LLM Integration • AI Agents • Prompt Engineering • Embeddings • OpenAI-Compatible APIs • TensorFlow • Keras • CNN • GAN**
+
+---
+
+### 🐳 DevOps & CI/CD
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux" />
+</p>
+
+**Docker • Git • Bitbucket Pipelines • GitHub Actions • CI/CD**
+
+---
+
+### 📊 Monitoring & Observability
+
+**OpenTelemetry • Prometheus**
+
+---
+
+<h2 align="center">💼 Professional Experience</h2>
+
+### 🏫 School Management SaaS Platform
+
+Developed a modular, multi-school management platform supporting:
+
+* 👨‍🎓 Students
+* 👨‍👩‍👧 Parents
+* 👩‍🏫 Teachers
+* 👨‍💼 Administrators
+* 📅 School-year scoping
+* 🔐 Role-based access control
+* 📝 Enrollment and attendance
+* 📊 Assessments and dashboards
+
+**Tech Stack:**
+`Java` • `Spring Boot` • `React` • `PostgreSQL` • `Neo4j` • `Auth0` • `Testcontainers`
+
+---
+
+### 🤖 FUSA-MVP — Functional Safety SaaS & AI Platform
+
+Contributed to a modular SaaS marketplace platform supporting:
+
+* 🧩 Workspace management
+* 📦 Versioning and lifecycle management
+* 🛒 Marketplace publishing
+* 💳 Purchasing and delivery workflows
+* 🏗️ Domain-Driven Design
+* ⚙️ Spring Modulith architecture
+* 🤖 AI-powered Functional Safety reviews
+* 🧠 LLM-based agents
+* 🔗 Embeddings and AI integrations
+* 🔄 Idempotency, retry handling and failure recovery
+
+**Tech Stack:**
+`Java` • `Spring Boot` • `Spring Modulith` • `React` • `PostgreSQL` • `Neo4j` • `AI/LLM APIs`
+
+---
+
+### ⛽ Stationnex — Fuel Station Management Platform
+
+Developed enterprise features supporting:
+
+* ⛽ Fuel management
+* 💳 Payments
+* 🛢️ Tank monitoring
+* 🔧 Pump operations
+* 💰 Pricing
+* 👥 Customer accounts
+* 📅 Shift planning
+* 📊 Operational dashboards and reporting
+
+**Tech Stack:**
+`Java` • `Spring Boot` • `React` • `TypeScript` • `PostgreSQL` • `Oracle` • `Keycloak` • `Docker`
+
+---
+
+### 💳 Stationnex Cards — Fuel Card Management Platform
+
+Built full-stack features for:
+
+* 💳 Fuel card lifecycle management
+* 👥 Customer management
+* 🔐 JWT authentication and authorization
+* 📊 Transaction monitoring
+* 🔎 Dynamic filtering and pagination
+* 💰 Balance and volume management
+* 📈 Analytics and reporting
+
+**Tech Stack:**
+`Spring Boot` • `React` • `TypeScript` • `Keycloak` • `JWT`
+
+---
+
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanibaananou09&theme=github-dark&area=true&hide_border=true" />
 </p>
 
 ---
 
-<h2 align="center">🎯 Current Focus (2026)</h2>
+<h2 align="center">🎯 Current Focus</h2>
 
-<p>
-🔍 Advanced AI & Machine Learning<br/>
-⚙️ CI/CD automation & DevOps pipelines<br/>
-⚡ Performance & scalability optimization<br/>
-🔐 Secure application design<br/>
-🌍 Open-source contribution
+<p align="center">
+
+🤖 AI/LLM Integration & AI Agents<br/>
+🏗️ Scalable SaaS and Modular Architectures<br/>
+⚙️ Java & Spring Boot Backend Development<br/>
+💻 Modern React Applications<br/>
+🧪 Automated Testing & Quality Engineering<br/>
+🐳 Docker & CI/CD Automation<br/>
+🔐 Secure Application Architecture<br/>
+🌍 Open-Source Contribution
+
 </p>
 
 ---
@@ -133,36 +261,47 @@ Docker • CI/CD
 <h2 align="center">💡 What I Bring</h2>
 
 <table align="center">
+
 <tr>
-<th>🚀 Expertise</th>
-<th>📈 Level</th>
-<th>🔥 Experience</th>
+<th>🚀 Area</th>
+<th>💼 Experience</th>
 </tr>
+
 <tr>
 <td>Full-Stack Development</td>
-<td>85%</td>
-<td>2+ years</td>
+<td>3+ years building enterprise and SaaS applications</td>
 </tr>
+
 <tr>
-<td>Backend (Spring Boot)</td>
-<td>80%</td>
-<td>Production systems</td>
+<td>Backend Development</td>
+<td>Java, Spring Boot, REST APIs and modular architectures</td>
 </tr>
+
 <tr>
-<td>Frontend (React / Angular)</td>
-<td>75%</td>
-<td>Enterprise apps</td>
+<td>Frontend Development</td>
+<td>React, TypeScript and Angular applications</td>
 </tr>
+
+<tr>
+<td>Databases</td>
+<td>PostgreSQL, Neo4j, Oracle and MySQL</td>
+</tr>
+
+<tr>
+<td>Security</td>
+<td>OAuth2, JWT, Keycloak and Auth0</td>
+</tr>
+
+<tr>
+<td>AI & LLM Integration</td>
+<td>AI Agents, Prompt Engineering, Embeddings and LLM APIs</td>
+</tr>
+
 <tr>
 <td>DevOps & CI/CD</td>
-<td>70%</td>
-<td>Docker pipelines</td>
+<td>Docker, Git, Bitbucket Pipelines and GitHub Actions</td>
 </tr>
-<tr>
-<td>AI / Machine Learning</td>
-<td>35%</td>
-<td>Academic & practice</td>
-</tr>
+
 </table>
 
 ---
