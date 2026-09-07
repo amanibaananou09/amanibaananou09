@@ -128,7 +128,7 @@ Embeddings & Prompt Engineering
 
 ### 🧪 Testing
 
-**JUnit • Mockito • Integration Testing • Testcontainers • Playwright • Vitest**
+**JUnit • Mockito • Integration Testing • Testcontainers • Vitest**
 
 ---
 
@@ -230,14 +230,6 @@ Built full-stack features for:
 
 **Tech Stack:**
 `Spring Boot` • `React` • `TypeScript` • `Keycloak` • `JWT`
-
----
-
-<h2 align="center">📊 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanibaananou09&theme=github-dark&area=true&hide_border=true" />
-</p>
 
 ---
 
